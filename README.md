@@ -14,7 +14,7 @@
   
 - (ISCAS) **Quality-blind Compressed Color Image Enhancenment with Convolutional Neural Network** [[paper](https://ieeexplore.ieee.org/document/9401182)]
   
-####2023
+#### 2023
 - (TPAMI) **DAQE: Enhancing the Quality of Compressed Images by Exploiting the Inherent Characteristic of Defocus** [[paper](https://ieeexplore.ieee.org/abstract/document/10073543/)]
   
 ## Researches on Compressed Video
