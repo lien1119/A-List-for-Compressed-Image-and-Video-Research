@@ -25,6 +25,10 @@
 #### 2023 
 - (TMM) **Blind Quality Enhancement for Compressed Video** [[paper](https://ieeexplore.ieee.org/document/10343127)]
 
+### Pose Estimation
+#### 2021
+- (ICCV) **Motion Adaptive Pose Estimation from Compressed Videos** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Motion_Adaptive_Pose_Estimation_From_Compressed_Videos_ICCV_2021_paper.pdf)]
+
 ### Object Segmentation
 #### 2021
 - (TCSVT) **Real Time Video Object Segmentation in Compressed Domain** [[paper](https://ieeexplore.ieee.org/document/8982035)]
@@ -34,6 +38,11 @@
 - (CVPR) **Efficient Semantic Segmentation by Altering Resolutions for Compressed Video** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Efficient_Semantic_Segmentation_by_Altering_Resolutions_for_Compressed_Videos_CVPR_2023_paper.pdf)]
   [[code](https://github.com/THU-LYJ-Lab/AR-Seg)]
 - (TCSVT) **Unified Architecture Adaptation for Compressed Domain Semantic Inference** [[paper](https://ieeexplore.ieee.org/document/10029924)]
-### Pose Estimation
-#### 2021
-- (ICCV) **Motion Adaptive Pose Estimation from Compressed Videos** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Motion_Adaptive_Pose_Estimation_From_Compressed_Videos_ICCV_2021_paper.pdf)]
+
+### Video Captioning
+#### 2023
+- (ICCV) **Accuracy and Fast Compressed Video Captioning** [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shen_Accurate_and_Fast_Compressed_Video_Captioning_ICCV_2023_paper.pdf)]
+
+### Video Grounding
+#### 2023
+- (CVPR) **You Can Ground Earlier than See: An Effective and Efficient Pipeline for Temporal Sentence Grounding in Compressed Videos** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_You_Can_Ground_Earlier_Than_See_An_Effective_and_Efficient_CVPR_2023_paper.pdf)]
