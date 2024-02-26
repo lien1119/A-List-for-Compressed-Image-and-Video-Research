@@ -27,7 +27,7 @@
 
 ### Object Segmentation
 #### 2021
-- (TCSVT) Real Time Video Object Segmentation in Compressed Domain [[paper](https://ieeexplore.ieee.org/document/8982035)]
+- (TCSVT) **Real Time Video Object Segmentation in Compressed Domain** [[paper](https://ieeexplore.ieee.org/document/8982035)]
 
 ### Semantic Segmentation
 #### 2023
