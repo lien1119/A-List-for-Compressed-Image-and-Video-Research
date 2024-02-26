@@ -24,6 +24,7 @@
 - (TPAMI) **MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video** [[paper](https://ieeexplore.ieee.org/document/8855019)] [[code](https://github.com/ryanxingql/mfqev2.0)]
 #### 2023 
 - (TMM) **Blind Quality Enhancement for Compressed Video** [[paper](https://ieeexplore.ieee.org/document/10343127)]
+- (TCSVT) **Temporal Wavelet Transform-based Low-Complexity Perceptual Quality Enhancement of Compressed Video** [[paper](https://ieeexplore.ieee.org/document/10254565)]
 
 ### Action Recognition
 #### 2016
