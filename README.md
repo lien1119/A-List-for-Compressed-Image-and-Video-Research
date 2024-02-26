@@ -33,7 +33,7 @@
 #### 2023
 - (CVPR) **Efficient Semantic Segmentation by Altering Resolutions for Compressed Video** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Efficient_Semantic_Segmentation_by_Altering_Resolutions_for_Compressed_Videos_CVPR_2023_paper.pdf)]
   [[code](https://github.com/THU-LYJ-Lab/AR-Seg)]
-  
+- (TCSVT) **Unified Architecture Adaptation for Compressed Domain Semantic Inference** [[paper](https://ieeexplore.ieee.org/document/10029924)]
 ### Pose Estimation
 #### 2021
 - (ICCV) **Motion Adaptive Pose Estimation from Compressed Videos** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Motion_Adaptive_Pose_Estimation_From_Compressed_Videos_ICCV_2021_paper.pdf)]
