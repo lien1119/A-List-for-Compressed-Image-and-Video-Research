@@ -10,7 +10,7 @@
 - (ECCV) **Early Exit or Not: Recource-Efficient Blind Quality Enhancement for Compressed Images** [[paper](https://arxiv.org/pdf/2006.16581.pdf)] [[code](https://github.com/RyanXingQL/RBQE)]
 #### 2021
 - (IF) **Deep Learning-based Compressed Image Artifacts Reduction based on Multi-scale Image Fusion** [[paper](https://www.sciencedirect.com/science/article/pii/S1566253520303857)]
-- (ISCAS) **Quality-blind Compressed Color Image Enhancenment with Convolutional Nerual Network** [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401182&tag=1)]
+- (ISCAS) **Quality-blind Compressed Color Image Enhancenment with Convolutional Neural Network** [[paper](https://ieeexplore.ieee.org/document/9401182)]
 ## Researches on Compressed Video
 ### Semantic Segmentation
 #### 2023=
