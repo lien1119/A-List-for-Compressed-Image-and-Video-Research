@@ -25,6 +25,10 @@
 #### 2023 
 - (TMM) **Blind Quality Enhancement for Compressed Video** [[paper](https://ieeexplore.ieee.org/document/10343127)]
 
+### Action Recognition
+#### 2016
+- (CVPR) **Real-time action recognition with enhanced motion vector cnns** [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Real-Time_Action_Recognition_CVPR_2016_paper.pdf)]
+
 ### Pose Estimation
 #### 2021
 - (ICCV) **Motion Adaptive Pose Estimation from Compressed Videos** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Motion_Adaptive_Pose_Estimation_From_Compressed_Videos_ICCV_2021_paper.pdf)]
