@@ -21,6 +21,8 @@
 ### Quality Enhancement
 #### 2021
 - (TPAMI) **MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video** [[paper](https://ieeexplore.ieee.org/document/8855019)] [[code](https://github.com/ryanxingql/mfqev2.0)]
+#### 2023 
+- (TMM) **Blind Quality Enhancement for Compressed Video** [[paper](https://ieeexplore.ieee.org/document/10343127)]
 ### Semantic Segmentation
 #### 2023
 - (CVPR) **Efficient Semantic Segmentation by Altering Resolutions for Compressed Video** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Efficient_Semantic_Segmentation_by_Altering_Resolutions_for_Compressed_Videos_CVPR_2023_paper.pdf)]
