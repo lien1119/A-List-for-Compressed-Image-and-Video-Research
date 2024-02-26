@@ -7,5 +7,5 @@
 ## Research on Compressed Image
 ### Blind Compressed Image Enhancement
 #### 2020
-- (ECCV)**Early Exit or Not: Recource-Efficient Blind Quality Enhancement for Compressed Images** [paper](https://arxiv.org/pdf/2006.16581.pdf)
+- (ECCV)**Early Exit or Not: Recource-Efficient Blind Quality Enhancement for Compressed Images** [[paper]](https://arxiv.org/pdf/2006.16581.pdf)
 ## Research on Compressed Video
