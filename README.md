@@ -28,7 +28,7 @@
 
 ### Action Recognition
 #### 2016
-- (CVPR) **Real-time Action Recognition with Enhanced Motion Mector CNNs** [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Real-Time_Action_Recognition_CVPR_2016_paper.pdf)]
+- (CVPR) **Real-time Action Recognition with Enhanced Motion Vector CNNs** [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Real-Time_Action_Recognition_CVPR_2016_paper.pdf)]
 
 ### Pose Estimation
 #### 2021
