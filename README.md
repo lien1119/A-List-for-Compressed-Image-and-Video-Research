@@ -46,6 +46,9 @@
 #### 2016
 - (CVPR) **Real-time Action Recognition with Enhanced Motion Vector CNNs** [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Real-Time_Action_Recognition_CVPR_2016_paper.pdf)]
 
+#### 2018
+- (CVPR) **Compressed Video Action Recognition** [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wu_Compressed_Video_Action_CVPR_2018_paper.pdf)][[code](https://github.com/chaoyuaw/pytorch-coviar)]
+
 #### 2019
 - (CVPR) **DMC-Net: Generating Discriminative Motion Cues for Fast Compressed Video Action Recognition** [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shou_DMC-Net_Generating_Discriminative_Motion_Cues_for_Fast_Compressed_Video_Action_CVPR_2019_paper.pdf)][[code](https://github.com/facebookresearch/dmc-net)]
 
@@ -80,5 +83,4 @@
 
 ### Video Question Answering
 #### 2021
-- (ICCV) **Video Question Answering Using Language-guided Deep Compressed-domain Video Feature** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Video_Question_Answering_Using_Language-Guided_Deep_Compressed-Domain_Video_Feature_ICCV_2021_paper.pdf)][[code](https:
-//github.com/Nayoung-Kim-ICP/VQAC)]
+- (ICCV) **Video Question Answering Using Language-guided Deep Compressed-domain Video Feature** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Video_Question_Answering_Using_Language-Guided_Deep_Compressed-Domain_Video_Feature_ICCV_2021_paper.pdf)][[code](https://github.com/Nayoung-Kim-ICP/VQAC)]
