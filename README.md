@@ -13,6 +13,7 @@
   - [Video Grounding](#video-grounding)
   - [Event Boundary Detection](#event-boundary-detection)
   - [Video Question Answering](#video-question-answering)
+  - [Self-supervised Video Representation Learning](#self-supervised-video-representation-learning)
 
 ## Researches on Compressed Image
 ### Quality Enhancement
@@ -84,3 +85,8 @@
 ### Video Question Answering
 #### 2021
 - (ICCV) **Video Question Answering Using Language-guided Deep Compressed-domain Video Feature** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Video_Question_Answering_Using_Language-Guided_Deep_Compressed-Domain_Video_Feature_ICCV_2021_paper.pdf)][[code](https://github.com/Nayoung-Kim-ICP/VQAC)]
+
+### Self-supervised Video Representation Learning
+#### 2021
+- (NeurIPS) **Compressed Video Contrastive Learning** [[paper](https://papers.nips.cc/paper/2021/file/7647966b7343c29048673252e490f736-Paper.pdf)]
+- (ICLR) **Self-supervised Learning of Compressed Video Representation** [[paper](https://openreview.net/pdf?id=jMPcEkJpdD)]
