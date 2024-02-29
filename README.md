@@ -40,6 +40,9 @@
 ### Object Segmentation
 #### 2021
 - (TCSVT) **Real Time Video Object Segmentation in Compressed Domain** [[paper](https://ieeexplore.ieee.org/document/8982035)]
+  
+#### 2022
+- (MM) **Multi-attention Network for Compressed Video Referring Object Segmentation** [[paper](https://dl.acm.org/doi/10.1145/3503161.3547761)]
 
 ### Semantic Segmentation
 #### 2023
