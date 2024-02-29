@@ -1,6 +1,8 @@
 # Awesome-Researches-on-Compressed-Image-and-Video
 - [Researches on Compressed Image](#researches-on-compressed-image)
   - [Quality Enhancement](#quality-enhancement)
+  - [Image Classification](#image-classification)
+  - [Image Segmentation](#image-segmentation)
 - [Researches on Compressed Video](#researches-on-compressed-video)
   - [Quality Enhancement](#quality-enhancement)
   - [Action Recognition](#action-recognition)
@@ -23,6 +25,14 @@
   
 #### 2023
 - (TPAMI) **DAQE: Enhancing the Quality of Compressed Images by Exploiting the Inherent Characteristic of Defocus** [[paper](https://ieeexplore.ieee.org/abstract/document/10073543/)]
+
+### Image Classification
+#### 2018
+- (ICLR) **Towards Image Understanding from Deep Compression without Decoding** [[paper](https://openreview.net/pdf?id=HkXWCMbRW)]
+
+### Image Segmentation
+#### 2018
+- (ICLR) **Towards Image Understanding from Deep Compression without Decoding** [[paper](https://openreview.net/pdf?id=HkXWCMbRW)]
   
 ## Researches on Compressed Video
 ### Quality Enhancement
