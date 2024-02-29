@@ -3,8 +3,14 @@
   - [Quality Enhancement](#quality-enhancement)
 - [Researches on Compressed Video](#researches-on-compressed-video)
   - [Quality Enhancement](#quality-enhancement)
-  - [Semantic Segmentation](#semantic-segmentation)
+  - [Action Recognition](#action-recognition)
   - [Pose Estimation](#pose-estimation)
+  - [Object Segmentation](#object-segmentation)
+  - [Semantic Segmentation](#semantic-segmentation)
+  - [Video Captioning](#video-captioning)
+  - [Video Grounding](#video-grounding)
+  - [Event Boundary Detection](#event-boundary-detection)
+  - [Video Question Answering](#video-question-answering)
 
 ## Researches on Compressed Image
 ### Quality Enhancement
@@ -57,3 +63,11 @@
 ### Video Grounding
 #### 2023
 - (CVPR) **You Can Ground Earlier than See: An Effective and Efficient Pipeline for Temporal Sentence Grounding in Compressed Videos** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_You_Can_Ground_Earlier_Than_See_An_Effective_and_Efficient_CVPR_2023_paper.pdf)]
+
+### Event Boundary Detection
+#### 2022
+- (CVPR) **End-to-End Compressed Video Representation  Learning for Generic Event Boundary Detection** [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_End-to-End_Compressed_Video_Representation_Learning_for_Generic_Event_Boundary_Detection_CVPR_2022_paper.pdf)]
+
+### Video Question Answering
+#### 2021
+- (ICCV) **Video Question Answering Using Language-guided Deep Compressed-domain Video Feature** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Video_Question_Answering_Using_Language-Guided_Deep_Compressed-Domain_Video_Feature_ICCV_2021_paper.pdf)]
