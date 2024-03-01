@@ -46,6 +46,16 @@
   
 - (TCSVT) **Temporal Wavelet Transform-based Low-Complexity Perceptual Quality Enhancement of Compressed Video** [[paper](https://ieeexplore.ieee.org/document/10254565)]
 
+### Super-Resolution
+#### 2021
+- (ICCV) **COMISR: Compressed-informed Video Super-resolution** [[paper](https://arxiv.org/pdf/2105.01237.pdf)]
+
+### 2022
+- (ECCV) **Learning Spatiotemporal Frequency-transformer for Compressed Video Super-resolution** [[paper](https://arxiv.org/pdf/2208.03012.pdf)]
+
+### 2023
+- (CVPR) **Compression-aware Video Super-resolution** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf)]
+  
 ### Action Recognition
 #### 2016
 - (CVPR) **Real-time Action Recognition with Enhanced Motion Vector CNNs** [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Real-Time_Action_Recognition_CVPR_2016_paper.pdf)]
