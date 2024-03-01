@@ -57,9 +57,11 @@
 - (CVPR) **DMC-Net: Generating Discriminative Motion Cues for Fast Compressed Video Action Recognition** [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shou_DMC-Net_Generating_Discriminative_Motion_Cues_for_Fast_Compressed_Video_Action_CVPR_2019_paper.pdf)][[code](https://github.com/facebookresearch/dmc-net)]
 
 #### 2023
-- (TCSVT) **Dynamic Spatial Focus for Efficient Compressed Video Action Recognition** [[paper](https://ieeexplore.ieee.org/document/10155270)]
 - (ICASSP) **Efficient Compressed Video Action Recognition via Late Fusion with a Single Network** [[paper](https://ieeexplore.ieee.org/document/10096477)]
-  
+
+#### 2024
+- (TCSVT) **Dynamic Spatial Focus for Efficient Compressed Video Action Recognition** [[paper](https://ieeexplore.ieee.org/document/10155270)]
+
 ### Pose Estimation
 #### 2021
 - (ICCV) **Motion Adaptive Pose Estimation from Compressed Videos** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Motion_Adaptive_Pose_Estimation_From_Compressed_Videos_ICCV_2021_paper.pdf)]
