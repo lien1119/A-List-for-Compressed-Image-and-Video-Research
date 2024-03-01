@@ -19,6 +19,7 @@
 ### Quality Enhancement
 #### 2020
 - (ECCV) **Early Exit or Not: Recource-Efficient Blind Quality Enhancement for Compressed Images** [[paper](https://arxiv.org/pdf/2006.16581.pdf)] [[code](https://github.com/RyanXingQL/RBQE)]
+
 #### 2021
 - (IF) **Deep Learning-based Compressed Image Artifacts Reduction based on Multi-scale Image Fusion** [[paper](https://www.sciencedirect.com/science/article/pii/S1566253520303857)]
   
@@ -39,8 +40,10 @@
 ### Quality Enhancement
 #### 2021
 - (TPAMI) **MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video** [[paper](https://ieeexplore.ieee.org/document/8855019)] [[code](https://github.com/ryanxingql/mfqev2.0)]
+  
 #### 2023 
 - (TMM) **Blind Quality Enhancement for Compressed Video** [[paper](https://ieeexplore.ieee.org/document/10343127)]
+  
 - (TCSVT) **Temporal Wavelet Transform-based Low-Complexity Perceptual Quality Enhancement of Compressed Video** [[paper](https://ieeexplore.ieee.org/document/10254565)]
 
 ### Action Recognition
@@ -53,6 +56,9 @@
 #### 2019
 - (CVPR) **DMC-Net: Generating Discriminative Motion Cues for Fast Compressed Video Action Recognition** [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shou_DMC-Net_Generating_Discriminative_Motion_Cues_for_Fast_Compressed_Video_Action_CVPR_2019_paper.pdf)][[code](https://github.com/facebookresearch/dmc-net)]
 
+### 2023
+- (TCSVT) **Dynamic Spatial Focus for Efficient Compressed Video Action Recognition** [[paper](https://ieeexplore.ieee.org/document/10155270)]
+  
 ### Pose Estimation
 #### 2021
 - (ICCV) **Motion Adaptive Pose Estimation from Compressed Videos** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Motion_Adaptive_Pose_Estimation_From_Compressed_Videos_ICCV_2021_paper.pdf)]
@@ -89,4 +95,5 @@
 ### Self-supervised Video Representation Learning
 #### 2021
 - (NeurIPS) **Compressed Video Contrastive Learning** [[paper](https://papers.nips.cc/paper/2021/file/7647966b7343c29048673252e490f736-Paper.pdf)]
+
 - (ICLR) **Self-supervised Learning of Compressed Video Representation** [[paper](https://openreview.net/pdf?id=jMPcEkJpdD)]
