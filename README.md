@@ -5,6 +5,7 @@
   - [Image Segmentation](#image-segmentation)
 - [Researches on Compressed Video](#researches-on-compressed-video)
   - [Quality Enhancement](#quality-enhancement)
+  - [Super-Resolution](#super-resolution)
   - [Action Recognition](#action-recognition)
   - [Pose Estimation](#pose-estimation)
   - [Object Segmentation](#object-segmentation)
