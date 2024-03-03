@@ -1,4 +1,4 @@
-# Awesome-Researches-on-Compressed-Image-and-Video
+# A Survey for Compressed Image and Video Research [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 - [Researches on Compressed Image](#researches-on-compressed-image)
   - [Quality Enhancement](#quality-enhancement)
   - [Image Classification](#image-classification)
