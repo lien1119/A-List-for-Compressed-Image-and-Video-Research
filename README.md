@@ -71,6 +71,19 @@
 #### 2019
 - (CVPR) **DMC-Net: Generating Discriminative Motion Cues for Fast Compressed Video Action Recognition** [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shou_DMC-Net_Generating_Discriminative_Motion_Cues_for_Fast_Compressed_Video_Action_CVPR_2019_paper.pdf)][[code](https://github.com/facebookresearch/dmc-net)]
 
+#### 2020
+- (ICPR) **Toward Practical Compressed Video Action Recognition: A Temporal Enhanced Multi-Stream Network** [[paper](https://ieeexplore.ieee.org/document/9412213)]
+
+- (MM) **A Slow-I-Fast-P Architecture for Compressed Video Action Recognition** [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413641)]
+  
+- (CVPRW) **Minic the Raw Domain: Accelerating Action Recognition in the Compressed Domain** [[paper](https://ieeexplore.ieee.org/document/9150711)]
+
+#### 2021
+- (TIP) **Joint Feature Optimization for Compressed Action Recognition** [[paper](https://ieeexplore.ieee.org/document/9540786)]
+
+#### 2022
+- (IoTJ) **MTRFN: Multiscale Temporal Receptive Field Network for Compressed Video Action Recognition at Edge Servers** [[paper](https://ieeexplore.ieee.org/document/9680709)]
+  
 #### 2023
 - (ICASSP) **Efficient Compressed Video Action Recognition via Late Fusion with a Single Network** [[paper](https://ieeexplore.ieee.org/document/10096477)]
 
@@ -90,6 +103,9 @@
 - (MM) **Multi-Attention Network for Compressed Video Referring Object Segmentation** [[paper](https://dl.acm.org/doi/10.1145/3503161.3547761)]
 
 ### Semantic Segmentation
+#### 2022
+- (TPAMI) **TabLab: A Fast Framework for Semantic Video Segmentation Tapping into Compressed-Domain Knowledge**[[paper](https://ieeexplore.ieee.org/document/9207876)]
+
 #### 2023
 - (CVPR) **Efficient Semantic Segmentation by Altering Resolutions for Compressed Video** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Efficient_Semantic_Segmentation_by_Altering_Resolutions_for_Compressed_Videos_CVPR_2023_paper.pdf)]
   [[code](https://github.com/THU-LYJ-Lab/AR-Seg)]
