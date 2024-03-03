@@ -1,9 +1,9 @@
 # A Survey for Compressed Image and Video Research [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-- [Researches on Compressed Image](#researches-on-compressed-image)
+- [Compressed Image Research](#compressed-image-research)
   - [Quality Enhancement](#quality-enhancement)
   - [Image Classification](#image-classification)
   - [Image Segmentation](#image-segmentation)
-- [Researches on Compressed Video](#researches-on-compressed-video)
+- [Compressed Video Research](#compressed-video-research)
   - [Quality Enhancement](#quality-enhancement)
   - [Super-Resolution](#super-resolution)
   - [Action Recognition](#action-recognition)
@@ -17,7 +17,7 @@
   - [Self-supervised Video Representation Learning](#self-supervised-video-representation-learning)
   - [Prompt Tuning](#prompt-tuning)
 
-## Researches on Compressed Image
+## Compressed Image Research
 ### Quality Enhancement
 #### 2020
 - (ECCV) **Early Exit or Not: Recource-Efficient Blind Quality Enhancement for Compressed Images** [[paper](https://arxiv.org/pdf/2006.16581.pdf)] [[code](https://github.com/RyanXingQL/RBQE)]
@@ -38,7 +38,7 @@
 #### 2018
 - (ICLR) **Towards Image Understanding from Deep Compression without Decoding** [[paper](https://openreview.net/pdf?id=HkXWCMbRW)]
   
-## Researches on Compressed Video
+## Compressed Video Research
 ### Quality Enhancement
 #### 2018
 - (CVPR) **Multi-Frame Quality Enhancement for Compressed Video** [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Multi-Frame_Quality_Enhancement_CVPR_2018_paper.pdf)]
