@@ -73,8 +73,7 @@
 
 #### 2023
 - (ICASSP) **Efficient Compressed Video Action Recognition via Late Fusion with a Single Network** [[paper](https://ieeexplore.ieee.org/document/10096477)]
-
-#### 2024
+  
 - (TCSVT) **Dynamic Spatial Focus for Efficient Compressed Video Action Recognition** [[paper](https://ieeexplore.ieee.org/document/10155270)]
 
 ### Pose Estimation
