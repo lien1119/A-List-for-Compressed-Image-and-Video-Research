@@ -73,6 +73,8 @@
 
 #### 2023
 - (ICASSP) **Efficient Compressed Video Action Recognition via Late Fusion with a Single Network** [[paper](https://ieeexplore.ieee.org/document/10096477)]
+
+- (ICIP) **Frequency Enhancement Network for Efficient Compressed Video Action Recognition** [[paper](https://ieeexplore.ieee.org/abstract/document/10222848)]
   
 - (TCSVT) **Dynamic Spatial Focus for Efficient Compressed Video Action Recognition** [[paper](https://ieeexplore.ieee.org/document/10155270)]
 
