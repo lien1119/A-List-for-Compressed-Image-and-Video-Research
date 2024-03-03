@@ -39,8 +39,11 @@
   
 ## Researches on Compressed Video
 ### Quality Enhancement
+#### 2018
+- (CVPR) **Multi-Frame Quality Enhancement for Compressed Video** [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Multi-Frame_Quality_Enhancement_CVPR_2018_paper.pdf)]
+
 #### 2021
-- (TPAMI) **MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video** [[paper](https://ieeexplore.ieee.org/document/8855019)] [[code](https://github.com/ryanxingql/mfqev2.0)]
+- (TPAMI) **MFQE 2.0: A New Approach for Multi-Frame Quality Enhancement on Compressed Video** [[paper](https://ieeexplore.ieee.org/document/8855019)] [[code](https://github.com/ryanxingql/mfqev2.0)]
   
 #### 2023 
 - (TMM) **Blind Quality Enhancement for Compressed Video** [[paper](https://ieeexplore.ieee.org/document/10343127)]
@@ -49,20 +52,20 @@
 
 ### Super-Resolution
 #### 2021
-- (ICCV) **COMISR: Compressed-informed Video Super-resolution** [[paper](https://arxiv.org/pdf/2105.01237.pdf)]
+- (ICCV) **COMISR: Compressed-Informed Video Super-Resolution** [[paper](https://arxiv.org/pdf/2105.01237.pdf)]
 
 ### 2022
-- (ECCV) **Learning Spatiotemporal Frequency-transformer for Compressed Video Super-resolution** [[paper](https://arxiv.org/pdf/2208.03012.pdf)]
+- (ECCV) **Learning Spatiotemporal Frequency-transformer for Compressed Video Super-Resolution** [[paper](https://arxiv.org/pdf/2208.03012.pdf)]
 
 ### 2023
-- (CVPR) **Compression-aware Video Super-resolution** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf)]
+- (CVPR) **Compression-Aware Video Super-Resolution** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf)]
   
 ### Action Recognition
 #### 2016
-- (CVPR) **Real-time Action Recognition with Enhanced Motion Vector CNNs** [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Real-Time_Action_Recognition_CVPR_2016_paper.pdf)]
+- (CVPR) **Real-Time Action Recognition with Enhanced Motion Vector CNNs** [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Real-Time_Action_Recognition_CVPR_2016_paper.pdf)]
 
 #### 2018
-- (CVPR) **Compressed Video Action Recognition** [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wu_Compressed_Video_Action_CVPR_2018_paper.pdf)][[code](https://github.com/chaoyuaw/pytorch-coviar)]
+- (CVPR) **Compressed Video Action Recognition** [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wu_Compressed_Video_Action_CVPR_2018_paper.pdf)][[code](https://github.com/chaoyuaw/pytorch-coviar)] [[supp](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3006-supp.pdf)]
 
 #### 2019
 - (CVPR) **DMC-Net: Generating Discriminative Motion Cues for Fast Compressed Video Action Recognition** [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shou_DMC-Net_Generating_Discriminative_Motion_Cues_for_Fast_Compressed_Video_Action_CVPR_2019_paper.pdf)][[code](https://github.com/facebookresearch/dmc-net)]
@@ -82,7 +85,7 @@
 - (TCSVT) **Real Time Video Object Segmentation in Compressed Domain** [[paper](https://ieeexplore.ieee.org/document/8982035)]
   
 #### 2022
-- (MM) **Multi-attention Network for Compressed Video Referring Object Segmentation** [[paper](https://dl.acm.org/doi/10.1145/3503161.3547761)]
+- (MM) **Multi-Attention Network for Compressed Video Referring Object Segmentation** [[paper](https://dl.acm.org/doi/10.1145/3503161.3547761)]
 
 ### Semantic Segmentation
 #### 2023
@@ -104,10 +107,10 @@
 
 ### Video Question Answering
 #### 2021
-- (ICCV) **Video Question Answering Using Language-guided Deep Compressed-domain Video Feature** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Video_Question_Answering_Using_Language-Guided_Deep_Compressed-Domain_Video_Feature_ICCV_2021_paper.pdf)][[code](https://github.com/Nayoung-Kim-ICP/VQAC)]
+- (ICCV) **Video Question Answering Using Language-guided Deep Compressed-Domain Video Feature** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Video_Question_Answering_Using_Language-Guided_Deep_Compressed-Domain_Video_Feature_ICCV_2021_paper.pdf)][[code](https://github.com/Nayoung-Kim-ICP/VQAC)]
 
 ### Self-supervised Video Representation Learning
 #### 2021
 - (NeurIPS) **Compressed Video Contrastive Learning** [[paper](https://papers.nips.cc/paper/2021/file/7647966b7343c29048673252e490f736-Paper.pdf)]
 
-- (ICLR) **Self-supervised Learning of Compressed Video Representation** [[paper](https://openreview.net/pdf?id=jMPcEkJpdD)]
+- (ICLR) **Self-Supervised Learning of Compressed Video Representation** [[paper](https://openreview.net/pdf?id=jMPcEkJpdD)]
