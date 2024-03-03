@@ -15,6 +15,7 @@
   - [Event Boundary Detection](#event-boundary-detection)
   - [Video Question Answering](#video-question-answering)
   - [Self-supervised Video Representation Learning](#self-supervised-video-representation-learning)
+  - [Prompt Tuning](#prompt-tuning)
 
 ## Researches on Compressed Image
 ### Quality Enhancement
