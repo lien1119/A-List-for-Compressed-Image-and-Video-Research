@@ -25,7 +25,7 @@
 #### 2021
 - (IF) **Deep Learning-based Compressed Image Artifacts Reduction based on Multi-scale Image Fusion** [[paper](https://www.sciencedirect.com/science/article/pii/S1566253520303857)]
   
-- (ISCAS) **Quality-blind Compressed Color Image Enhancenment with Convolutional Neural Network** [[paper](https://ieeexplore.ieee.org/document/9401182)]
+- (ISCAS) **Quality-Blind Compressed Color Image Enhancenment with Convolutional Neural Network** [[paper](https://ieeexplore.ieee.org/document/9401182)]
   
 #### 2023
 - (TPAMI) **DAQE: Enhancing the Quality of Compressed Images by Exploiting the Inherent Characteristic of Defocus** [[paper](https://ieeexplore.ieee.org/abstract/document/10073543/)]
