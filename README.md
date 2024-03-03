@@ -114,3 +114,7 @@
 - (NeurIPS) **Compressed Video Contrastive Learning** [[paper](https://papers.nips.cc/paper/2021/file/7647966b7343c29048673252e490f736-Paper.pdf)]
 
 - (ICLR) **Self-Supervised Learning of Compressed Video Representation** [[paper](https://openreview.net/pdf?id=jMPcEkJpdD)]
+
+### Prompt Tuning
+#### 2023
+- (NeurIPS) **Compressed Video Prompt Tuning** [[paper](https://openreview.net/pdf?id=2vADOf3K00)]
