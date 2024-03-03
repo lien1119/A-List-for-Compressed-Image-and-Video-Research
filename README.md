@@ -57,6 +57,7 @@
 
 #### 2022
 - (ECCV) **Learning Spatiotemporal Frequency-transformer for Compressed Video Super-Resolution** [[paper](https://arxiv.org/pdf/2208.03012.pdf)]
+- (ECCV) **A Codec Information Assisted Framework for Efficient Compressed Video Super-Resolution** [[paper](https://arxiv.org/pdf/2210.08229.pdf)]
 
 #### 2023
 - (CVPR) **Compression-Aware Video Super-Resolution** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf)]
