@@ -43,6 +43,9 @@
 #### 2018
 - (CVPR) **Multi-Frame Quality Enhancement for Compressed Video** [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Multi-Frame_Quality_Enhancement_CVPR_2018_paper.pdf)]
 
+#### 2020
+- (AAAI) **Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement** [[paper](https://cdn.aaai.org/ojs/6697/6697-13-9926-1-10-20200522.pdf)]
+
 #### 2021
 - (TPAMI) **MFQE 2.0: A New Approach for Multi-Frame Quality Enhancement on Compressed Video** [[paper](https://ieeexplore.ieee.org/document/8855019)] [[code](https://github.com/ryanxingql/mfqev2.0)]
   
