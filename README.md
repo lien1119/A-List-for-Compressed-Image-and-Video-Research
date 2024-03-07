@@ -54,6 +54,9 @@
   
 - (TCSVT) **Temporal Wavelet Transform-based Low-Complexity Perceptual Quality Enhancement of Compressed Video** [[paper](https://ieeexplore.ieee.org/document/10254565)]
 
+#### 2024
+- (WACV) **Leveraging Bitstream Metadata for Fast, Accurate, Generalized Compressed Video Quality Enhancement** [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ehrlich_Leveraging_Bitstream_Metadata_for_Fast_Accurate_Generalized_Compressed_Video_Quality_WACV_2024_paper.pdf)]
+
 ### Super-Resolution
 #### 2021
 - (ICCV) **COMISR: Compressed-Informed Video Super-Resolution** [[paper](https://arxiv.org/pdf/2105.01237.pdf)]
