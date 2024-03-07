@@ -63,7 +63,7 @@
 - (ECCV) **A Codec Information Assisted Framework for Efficient Compressed Video Super-Resolution** [[paper](https://arxiv.org/pdf/2210.08229.pdf)]
 
 #### 2023
-- (CVPR) **Compression-Aware Video Super-Resolution** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf)]
+- (CVPR) **Compression-Aware Video Super-Resolution** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf)][[code](https://github.com/aprBlue/CAVSR)]
   
 ### Action Recognition
 #### 2016
